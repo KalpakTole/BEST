@@ -1,0 +1,6 @@
+.sidenav {
+	visibility:hidden !important;
+}
+.main {
+	visibility:visible !important;
+}
